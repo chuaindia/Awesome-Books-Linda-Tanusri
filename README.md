@@ -44,11 +44,11 @@ Following the instructions progress is made.
 
 👤 **Tanusri Ghosh**
 
-- GitHub: [@chuaindia](https://github.com/chuaindia/)
-- Twitter: [@chuaghosh25](https://twitter.com/chuaghosh25)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tanusri-ghosh-2a56b814/)
+- GitHub: https://github.com/chuaindia
+- Twitter: https://twitter.com/chuaghosh25
+- LinkedIn: https://www.linkedin.com/in/tanusri-ghosh-2a56b814
 
-👤 **Linda **
+👤 **Linda**
 
 - GitHub: [@](https://github.com/)
 - Twitter: [@](https://twitter.com/)
