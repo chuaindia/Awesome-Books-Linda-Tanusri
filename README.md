@@ -50,9 +50,8 @@ Following the instructions progress is made.
 
 👤 **Linda**
 
-- GitHub: [@](https://github.com/)
-- Twitter: [@](https://twitter.com/)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/)
+- GitHub:https://github.com/letarulinda
+- LinkedIn: www.linkedin.com/in/linda-letaru-masia-7b48a9175
 
 
 ## 🤝 Contributing
