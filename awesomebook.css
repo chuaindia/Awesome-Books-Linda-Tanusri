@@ -1,3 +1,6 @@
+/* stylelint-disable block-opening-brace-space-before */
+/* stylelint-disable no-descending-specificity */
+/* stylelint-disable selector-list-comma-newline-after */
 /* stylelint-disable indentation */
 /* stylelint-disable csstree/validator */
 /* stylelint-disable selector-class-pattern */
@@ -6,8 +9,7 @@ body {
 }
 
 .main-container {
-  max-width: 500px;
-  margin: 0 auto;
+   margin: 0 auto;
 }
 
 .hr {
@@ -109,6 +111,7 @@ nav li:hover {
 
 .contact {
   border: none;
+  position: relative;
 }
 
 .form-container {
@@ -121,17 +124,16 @@ nav li:hover {
   font-weight: 600;
 }
 
-footer {
-  position: absolute;
-  border: 2px solid gray;
-  padding: 0 20px;
-  bottom: 2em;
-  width: 500px;
-  box-sizing: border-box;
-  text-align: start;
-}
-
 .contact-info {
   display: block;
   font-size: large;
+}
+
+.footer {
+  display: inline-block;
+  border: 2px solid gray;
+  padding: 0 20px;
+  width: 100%;
+  box-sizing: border-box;
+  text-align: start;
 }
