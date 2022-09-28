@@ -2,7 +2,7 @@
 
 # Awesome-Books Project
 
-> "Awesome books" is a simple website that displays a list of books and allows user to add and remove books from that list. By building this application,managing data using JavaScript is utilised. 
+> "Awesome books" is a simple website that displays a list of books and allows user to add and remove books from that list. By building this application,managing data using JavaScript is utilised.On **day 2** the changes are made according to the requirement. 
 
 
 ## Built With
@@ -50,9 +50,8 @@ Following the instructions progress is made.
 
 👤 **Linda**
 
-- GitHub: [@](https://github.com/)
-- Twitter: [@](https://twitter.com/)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/)
+- GitHub:https://github.com/letarulinda
+- LinkedIn: www.linkedin.com/in/linda-letaru-masia-7b48a9175
 
 
 ## 🤝 Contributing
