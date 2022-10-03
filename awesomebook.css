@@ -6,6 +6,7 @@
 /* stylelint-disable selector-class-pattern */
 body {
   text-align: center;
+  flex-grow: 1;
 }
 
 .main-container {
@@ -131,6 +132,7 @@ nav li:hover {
 
 .footer {
   display: inline-block;
+  position: inherit;
   border: 2px solid gray;
   padding: 0 20px;
   width: 100%;
